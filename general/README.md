@@ -2,7 +2,7 @@
 
 目录结构：
 
-![image_1.png](pics/img.jpg)
+![image_1.png](pics/image_1.png)
 
 强调下面几个独立的仓库，可供学习参考。
 
