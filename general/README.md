@@ -1,6 +1,6 @@
 # 数据科学的通用框架
 
-目录结构：
+
 
 ![image_1.png](pics/image_1.png)
 
