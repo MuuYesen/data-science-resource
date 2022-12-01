@@ -32,7 +32,7 @@
 
 《海通固收 | 从拉久期稳杠杆到缩久期加杠杆——债市情绪高频指标跟踪》：https://mp.weixin.qq.com/s/clD7qk3LceB6KBgPN2NUnw
 
-《情绪指数高位回落——债市情绪高频指标跟踪（海通固收 姜珮珊、孙丽萍、方欣来）》；https://mp.weixin.qq.com/s/ugKs92sRXowUmcxsO4Ko-w
+《情绪指数高位回落——债市情绪高频指标跟踪（海通固收 姜珮珊、孙丽萍、方欣来）》：https://mp.weixin.qq.com/s/ugKs92sRXowUmcxsO4Ko-w
 
 《债券量化系列之一：宏观数据与非线性模型》：https://mp.weixin.qq.com/s/fg3sp1atpl5aBSpQd1QA_A
 
@@ -48,7 +48,7 @@
 
 《期货人必看！商品期货的移仓换月研究！》：https://mp.weixin.qq.com/s/A9TXwiPFPZ8JoL4UP_bSmw
 
-《CTA策略入场信号增强框架》；https://zhuanlan.zhihu.com/p/33163429?utm_medium=social&utm_oi=1090629914037862400&utm_psn=1547507634164432896&utm_source=wechat_session
+《CTA策略入场信号增强框架》：https://zhuanlan.zhihu.com/p/33163429?utm_medium=social&utm_oi=1090629914037862400&utm_psn=1547507634164432896&utm_source=wechat_session
 
 《【读书会】商品期货市场中的趋势因子》：https://mp.weixin.qq.com/s/8-RjYtaQ5JgX0WYI4XCnzw
 
